@@ -22,18 +22,18 @@
 ### **مراحل اجرا**  
 1. اسکریپت را دانلود کنید:  
    ```bash
-   git clone https://github.com/YourUsername/InstaGuard-Pro.git
-   cd InstaGuard-Pro
+   git clone https://github.com/mahyar-573/InstaSec-Check
+   cd InstaSec-Check
    ```
 
 2. دسترسی اجرایی بدهید:  
    ```bash
-   chmod +x instaguard.sh
+   chmod +x InstaSec-Check.sh
    ```
 
 3. اجرا کنید:  
    ```bash
-   ./instaguard.sh
+   ./InstaSec-Check.sh
    ```
 
 4. اطلاعات حساب خود را وارد کنید (فقط برای تحلیل امنیتی).  
